@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home_ic_icon"
+        android:title="Home" />
+    <item
+        android:id="@+id/navigation_learn"
+        android:icon="@drawable/study_icon"
+        android:title="Creaturo Learn" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/profile_filled_icon"
+        android:title="Profile" />
+</menu>

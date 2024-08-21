@@ -1,0 +1,13 @@
+<resources>
+    <color name="splashBackground">#FFFFFF</color> <!-- White -->
+    <color name="primaryColor">#AD2C0F</color> <!-- Warm Red -->
+    <color name="secondaryColor">#4E342E</color> <!-- Dark Brown -->
+    <color name="accentColor">#D7CCC8</color> <!-- Lightish Brown -->
+    <color name="textColor">#0E0E0E</color> <!-- Dark Gray -->
+    <color name="buttonColor">#AD2C0F</color> <!-- Warm Red -->
+    <color name="buttonPressedColor">#4E342E</color> <!-- Dark Brown -->
+    <color name="buttonTextColor">#FFFFFF</color> <!-- White -->
+    <color name="buttonBorderColor">#4E342E</color> <!-- Dark Brown -->
+    <color name="headerBackgroundColor">#FFFFFF</color> <!-- White -->
+    <color name="headerTextColor">#4E342E</color> <!-- Dark Brown -->
+</resources>

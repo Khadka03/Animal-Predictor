@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Animal Predictor</string>
+    <string name="profile_picture">This is a profile picture</string>
+    <string name="user_name">User\n</string>
+    <string name="user_email">user@gmail.com\n</string>
+    <string name="edit_profile">edit\n</string>
+    <string name="logout">logout\n</string>
+    <string name="cancel_edit">Cancel</string>
+    <string name="save_profile">save</string>
+    <string name="profile_image">profile\n</string>
+</resources>

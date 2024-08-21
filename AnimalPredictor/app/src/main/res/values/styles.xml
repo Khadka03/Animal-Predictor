@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Custom Button Style -->
+    <style name="CustomButton">
+        <item name="android:background">@drawable/custom_button_background</item>
+        <item name="android:textColor">@color/buttonTextColor</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+
+
+    <!-- Custom Header Style -->
+    <style name="CustomHeader">
+        <item name="android:background">@color/headerBackgroundColor</item>
+        <item name="android:textColor">@color/headerTextColor</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:padding">16dp</item>
+    </style>
+
+</resources>

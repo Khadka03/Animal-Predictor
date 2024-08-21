@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880366841586",
+    "project_id": "creaturo-7874c",
+    "storage_bucket": "creaturo-7874c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880366841586:android:15040076e5c903b7b56a6b",
+        "android_client_info": {
+          "package_name": "com.example.animalpredictor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880366841586-cub258knnalqanrr3peknsb0u88kb7j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSrsPGu1nRIjU7NVjWlYwyXX-mny3c1Ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880366841586-cub258knnalqanrr3peknsb0u88kb7j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

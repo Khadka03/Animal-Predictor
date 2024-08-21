@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="@color/splashBackground"
+    android:gravity="center">
+
+    <!-- App Title -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:fontFamily="@font/aclonica"
+        android:text="Creaturo"
+        android:textColor="@color/primaryColor"
+        android:textSize="32sp"
+        android:textStyle="bold" />
+
+    <!-- Email Input Field -->
+    <EditText
+        android:id="@+id/emailEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email"
+        android:textColor="@color/textColor"
+        android:background="@drawable/custom_input_background"
+        android:padding="12dp"
+        android:textStyle="bold"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Password Input Field -->
+    <EditText
+        android:id="@+id/passwordEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:textColor="@color/textColor"
+        android:background="@drawable/custom_input_background"
+        android:padding="12dp"
+        android:textStyle="bold"
+        android:inputType="textPassword"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Login Button -->
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/buttonColor"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/main_button_background"
+        android:fontFamily="sans-serif-black"
+        android:text="Login"
+        android:textColor="@color/buttonTextColor"
+        android:textStyle="bold" />
+
+    <!-- Register Link -->
+    <TextView
+        android:id="@+id/registerTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Don't have an account? Register here"
+        android:textColor="@color/primaryColor"
+        android:layout_marginTop="16dp"
+        android:textSize="16sp"
+        android:layout_gravity="center" />
+
+</LinearLayout>
